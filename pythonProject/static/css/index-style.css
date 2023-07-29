@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #353535;
+}
+
+.wrapper{
+    height: 100vh;
+    overflow: hidden;
+    display: block;
+    background-color: #ffffff;
+}
+.header-container{
+    flex: auto;
+    width: 100vh;
+    height: 120px;
+    background-color: #5a8fbb;
+}
+
+.header-name{
+    font-weight: normal;
+    margin-left: 40px;
+    color: #ffffff;
+}
+
+.middle-container{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+h1{
+    font-size: 90px;
+}
+
+h2{
+    font-size: 80px;
+}
+
+h3{
+    font-weight: normal;
+    font-size: 50px;
+    margin-top: 30px;
+}
